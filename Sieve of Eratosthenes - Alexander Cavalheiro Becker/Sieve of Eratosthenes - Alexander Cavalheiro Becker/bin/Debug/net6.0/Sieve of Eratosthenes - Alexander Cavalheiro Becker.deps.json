@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sieve of Eratosthenes - Alexander Cavalheiro Becker/1.0.0": {
+        "runtime": {
+          "Sieve of Eratosthenes - Alexander Cavalheiro Becker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sieve of Eratosthenes - Alexander Cavalheiro Becker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
